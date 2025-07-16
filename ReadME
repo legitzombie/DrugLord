@@ -1,0 +1,49 @@
+Collection of all my mods
+
+DrugLord Mod,
+Realistic Laundering,
+Realistic Real Estate,
+Huge Labs,
+Huge Packages,
+Everything Stacks,
+Unlimited Dealers,
+Area Rebalance,
+Rich ATMs,
+Higher Slider Limits
+
+
+Installation
+Important Notes: Any mod that uses the same file ARE NOT compatible and need to be manually merged. Renaming the file to something else will not work. If it uses the same folder but not the same file then it is fine.
+
+Before modding your game in anyway backup your save games found in %localappdata%\DrugDealerSimulator\Saved\Serialized to somewhere safe on the rare occasion something goes wrong.
+
+1. Download UnrealModUnlockerBasic from https://illusory.dev/
+
+2. Launch UnrealModUnlockerBasic Setup 0.34.1.exe and navigate to your Drug Dealer Simulator's Win64 Folder
+Should be something similar to this: \steamapps\common\DrugDealerSimulator\DrugDealerSimulator\Binaries\Win64
+
+3. Click on Patch and then OK on the popups. Exit out of the application once done.
+
+4. Open up the .zip/.rar file of the mod and take any content based folders and put it inside your content folder located in your Drug Dealer Simulator folder.
+Should be something similar to this: steamapps\common\DrugDealerSimulator\DrugDealerSimulator\Content
+Content based folders are folders like Datatables, Drugs, WorldControlers, etc NOT the mod folder like Gang Order Buff. 
+
+See image for comparison of a correctly modded game vs an incorrectly modded game.
+
+https://i.imgur.com/SEwvaBu.png
+
+
+File Definitions, Uninstallation, and Incompatibilities
+This section defines the assets I edited to make it easier for others to find the files and edit them; it also shows incompatibilities. (Any mod that touches the files below is incompatible.)
+To uninstall the mod, delete the files below.
+
+labelEditWidget.uasset
+labelEditWidget.uexp
+
+Tools Used:
+FModel - for extraction and viewing assets
+UassetGUI - for editing assets
+
+
+Join the Drug Dealer Simulator Discord: https://discord.gg/eGwksTcRYB
+Join the Drug Dealer Simulator Modding Discord: https://discord.gg/webKrwx3gX
